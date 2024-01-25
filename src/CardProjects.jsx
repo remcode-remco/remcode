@@ -16,7 +16,7 @@ const projects = [
   },
   {
     image: "gite.png",
-    link: "https://remcode.net/gite",
+    link: "https://rental.remcode.net",
     heading_text: "Rental Template",
     heading_subtext: "template for vacation rental website",
     paragraphs: [
