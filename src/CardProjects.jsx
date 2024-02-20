@@ -27,7 +27,7 @@ const projects = [
   },
   {
     image: "nearly.png",
-    link: "",
+    link: "https://nearly.site",
     heading_text: "Nearly",
     heading_subtext: "social network idea",
     paragraphs: [
